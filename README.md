@@ -73,7 +73,7 @@ Press Ctrl + Shift + B
 
 After building, run the executable:
 
-.\executable.exe
+.\cutable.exe
 
 
 This will open your GLFW window.
